@@ -1,4 +1,4 @@
-# CUBOPS AI-COMPANION
+# SMART-AI-COMPANION
 
 ## Conversational Universe of Behavioral and Emotion Optimization for Personality Simulation (CUBEOPS)
 
@@ -257,8 +257,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact **Rakesh Valasala**:
-- **Email**: [valasalarakesh1254@gmail.com](mailto:valasalarakesh1254@gmail.com)
-- **LinkedIn**: [linkedin.com/in/rakeshvalasala](https://www.linkedin.com/in/rakeshvalasala/) 
+For any questions or feedback, please contact **Vishnu Battula**:
+- **Email**: [battulavishnu5@gmail.com](mailto:battulavishnu5@gmail.com)
+- **LinkedIn**: [linkedin.com/in/vishnubattula](https://www.linkedin.com/in/vishnubattula/) 
 
 ---
