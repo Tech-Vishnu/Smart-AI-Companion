@@ -83,8 +83,8 @@ This repository contains the source code for building a SaaS AI-COMPANION Platfo
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/VALASALARAKESH/AI-COMPANION-V2.git
-cd AI-COMPANION-V2
+git clone https://github.com/Tech-Vishnu/Model-AI--Companion.git
+cd SMART-AI-COMPANION-V2
 ```
 
 ### **2. Install Packages**
@@ -152,7 +152,7 @@ The application will be available at [http://localhost:3000](http://localhost:30
 ## Backend
 
 ### **Repository**
-The backend for this project can be found at: [modal-ai-companion](https://github.com/VALASALARAKESH/modal-ai-companion.git)
+The backend for this project can be found at: [modal-ai-companion](https://github.com/Tech-Vishnu/Model-AI--Companion.git)
 
 ### **Backend Features**
 
@@ -177,7 +177,7 @@ The backend for this project can be found at: [modal-ai-companion](https://githu
 
 1. Clone the backend repository:
 ```bash
-git clone https://github.com/VALASALARAKESH/modal-ai-companion.git
+git clone https://github.com/Tech-Vishnu/Model-AI--Companion.git
 cd modal-ai-companion
 ```
 
